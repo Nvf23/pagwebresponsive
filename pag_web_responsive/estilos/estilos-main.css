@@ -1,0 +1,95 @@
+@media only screen and (min-width: 1200px) {
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+}
+
+
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 14px;
+ }
+ footer {
+  font-size: 14px;
+ }
+
+}
+
+/* Estilo para el cuerpo de la página */
+
+body {
+    background: url('../fotos/fondo.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+/* Estilo para encabezados de nivel 1 (h1) */
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 750%;
+    color:black;
+    text-shadow: 3px 3px 1px white;
+}
+
+/* Estilo para encabezados de nivel 2 (h2) */
+
+h2 {
+    font-family: 'Amatic SC', sans-serif;
+    text-align: center;
+    font-size: 60;
+    color:white;
+    text-shadow: 2px 2px 4px black;
+}
+
+/* Estilo para la barra de navegación */
+
+nav {
+    font-family: 'Amatic SC', sans-serif; 
+    padding: 0; 
+    text-align: center;
+    font-size: 50px;
+}
+
+/* Estilo para elementos de la lista dentro de la barra de navegación */
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+    text-shadow: 2px 2px 4px black;
+    color:white;
+}
+
+/* Estilo para enlaces */
+
+a {
+    text-decoration: none;
+    color:white;
+    transition: color 0.15s;
+}
+
+/* Estilo para enlaces cuando se pasa el mouse sobre ellos */
+
+a:hover {
+    color:rgb(171, 79, 79);
+}
+
+/* Estilo para el pie de página */
+
+footer {
+    background-color: #ffffff51;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0; 
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}

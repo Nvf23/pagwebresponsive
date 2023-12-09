@@ -1,0 +1,91 @@
+/* Estilo para el cuerpo de la página */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('../fotos/fondo2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Estilo para encabezados de nivel 1 (h1) */
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-bottom: -30px;
+    margin-top: 0px;
+    font-size: 600%;
+    color:black;
+    text-shadow: 3px 3px 1px white;
+}
+
+/* Estilo para encabezados de nivel 2 (h2) */
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilo para enlaces */
+
+a {
+    text-decoration: none;
+    color:black;
+    transition: color 0.15s;
+}
+
+/* Estilo para enlaces cuando se pasa el mouse sobre ellos */
+
+a:hover {
+    color:rgb(171, 79, 79);
+}
+
+/* Estilo para la barra de navegación */
+
+nav {
+    font-family: 'Amatic SC', sans-serif; 
+    padding: 0; 
+    text-align: center;
+    font-size: 50px;
+}
+
+/* Estilo para elementos de la lista dentro de la barra de navegación */
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+    text-shadow: 2px 2px 4px black;
+    color:white;
+}
+
+/* Estilo para una caja con sombra y contenido */
+
+.caja {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%; 
+    max-width: 100%; 
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+/* Estilo para imágenes dentro de la caja */
+
+.caja img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Estilo para párrafos */
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+@media screen and (max-width: 600px) {
+    .caja {
+        width: 80%; 
+    }
+}
