@@ -1,5 +1,9 @@
 # Página web Responsive Luciano Nicolas Viscio Frank
 
+## Participantes
+
+He realizdo la pagina web por mi cuenta. He decidido hacerlo solo ya que me organizo mejor y encuentro fallos de manera mas optima.
+
 ## Estructura de Carpetas
 - Carpeta raíz:
   - Carpeta estilos
