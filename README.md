@@ -1,25 +1,42 @@
---La carpeta esta estructurada de la siguiente manera:
--Carpeta raíz:
+# Página web Responsive Luciano Nicolas Viscio Frank
 
-*Carpeta estilos
-*Carpeta fotos
+## Estructura de Carpetas
+- Carpeta raíz:
+  - Carpeta estilos
+  - Carpeta fotos
 
-Dentro de la carpeta raíz también se incluten los archivos html de las diferentes secciones de la página
-y el icono de la página.
+Dentro de la carpeta raíz se encuentran los archivos HTML de las diferentes secciones de la página y el icono de la página.
 
---Tecnologies utilitzades en el desenvolupament de la pàgina web.
+## Tecnologías Utilizadas
+Se ha utilizado el IDE Visual Studio Code en el desarrollo de la página web.
 
-He utilizado simplemente el IDE Visual Studio Code. 
+## Características y Funcionalidades Principales
 
---Enumerar les característiques i funcionalitats principals de la pàgina web.
+La página web proporciona información relevante sobre el café, incluyendo sus tipos, beneficios y métodos de preparación.
 
-Esta página web simplemente recoge información relevante acerca del café, sus tipos, beneficios y maneras
-de prepararlo. 
+### Páginas Principales
 
-La página web consta de una página Main, la cual redirige por medio de una barra de navegación a los
-diferentes apartados de la página.
+1. **Página Principal (Main):**
+   - Contiene una barra de navegación que redirige a los diferentes apartados de la página.
 
-Cada página tiene una barra de navegación, la cual lleva a los diferentes apartados de la página, incluido
-el inicio. 
+2. **Barra de Navegación:**
+   - Presente en cada página.
+   - Permite la navegación rápida entre las diferentes secciones, incluyendo la página de inicio.
 
-Al final de los apartados de beneficios y tipos hay links que redirigen a apartados de la página.
+### Apartados Específicos
+
+1. **Tipos de Café:**
+   - Información detallada sobre los tipos de café.
+   - Barra de navegación para facilitar el retorno a otras secciones.
+
+2. **Beneficios del Café:**
+   - Detalles sobre los beneficios del consumo de café.
+   - Barra de navegación para facilitar la exploración.
+
+### Enlaces Adicionales
+
+- Al final de las secciones de beneficios y tipos, se encuentran enlaces que redirigen a otras partes de la página.
+
+## Resumen
+
+La página web está diseñada de manera sencilla y funcional, con una estructura de carpetas clara. Se ha utilizado Visual Studio Code en el desarrollo, y las principales secciones incluyen información sobre tipos y beneficios del café, con una barra de navegación que facilita la exploración.
